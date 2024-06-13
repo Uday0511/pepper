@@ -1,4 +1,9 @@
 cd-change directory
 mkdir-make directory
 ls-listing all the files
+vi- to create a file
+      step-1: i (to enter data)
+      step-2: adding data
+      step-3: click esc 
+      step-4: type :wq!( to save the file)
 
